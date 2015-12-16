@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoadMoreRecyclerView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_linear_layout">LinearLayoutActivity</string>
+    <string name="title_activity_grid_layout">GridLayoutActivity</string>
+    <string name="title_activity_staggered_grid">StaggeredGridActivity</string>
+</resources>
